@@ -12,4 +12,4 @@ On 21 March 2017, I received a life-saving stem cell transplant from an anonymou
 Please feel free to fork and send pull requests. I will respond to them as swiftly as I can.
 
 ## Contact
-You can follow me @aaronjlee or email me at aaron.lee.kwokfu@gmail.com.
+Best to contact me at [@aaronjlee](https://twitter.com/aaronjlee).
